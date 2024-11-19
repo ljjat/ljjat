@@ -6,7 +6,7 @@
 
 </div>
 
-Chung-Ang Uviversity
+Chung-Ang Uviversity /n
 Art & Technology freshman
 <!--
 **ljjat/ljjat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
